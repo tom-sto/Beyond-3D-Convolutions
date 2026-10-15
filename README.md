@@ -1,6 +1,6 @@
 # Beyond 3D Convolutions: A 4D Transformer-Based Network for Capturing Vascular Kinetics in Neoadjuvant Chemotherapy Response Prediction
 
-📄 **[Click here to view or download the PDF](./YOUR_PAPER_FILENAME.pdf)**
+📄 **[Click here to view or download the PDF](./Beyond_3D_Convolutions.pdf)**
 
 ---
 
