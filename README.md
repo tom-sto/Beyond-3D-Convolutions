@@ -15,8 +15,13 @@ Neoadjuvant chemotherapy (NAC) is commonly administered before surgery in patien
 If you use or reference this paper, please cite it as:
 
 ```bibtex
-@article{stoughton2026beyond,
-  title={Beyond 3D Convolutions: A 4D Transformer-Based Network for Capturing Vascular Kinetics in Neoadjuvant Chemotherapy Response Prediction},
-  author={Thomas E Stoughton, Randy C Miles, Ines A Cruz-Guerrero, Antonio R Porras},
-  year={2026}
+@InProceedings{StoTho_Beyond_MICCAISAT2026,
+        author = { Stoughton, Thomas E. AND Miles, Randy C. AND Cruz-Guerrero, Ines A. AND Porras, Antonio R.},
+        title = { { Beyond 3D Convolutions: A 4D Spatiotemporal Transformer-Based Network for Capturing Vascular Kinetics in Neoadjuvant Chemotherapy Response Prediction } },
+        booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026 Workshops and Challenges},
+        year = {2026},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 17256},
+        month = {pending},
+        page = {pending}
 }
